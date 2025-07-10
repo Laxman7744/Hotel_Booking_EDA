@@ -6,7 +6,7 @@ A curated set of practical data analysis exercises implemented in a single Jupyt
 
 ---
                                 
-## 📖 Table of Contents
+## 📖 Table of Contents                        
 
 1. [About](#about)  
 2. [Features & Tasks](#features--tasks)  
